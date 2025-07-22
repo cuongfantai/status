@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: HCMUC-SV
-    url: https://sinhvien.hcmuc.edu.vn/
+    url: https://sinhvien.hcmuc.edu.vn/sinh-vien-dang-nhap.html
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
