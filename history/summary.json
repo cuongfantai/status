@@ -1,22 +1,22 @@
 [
   {
     "name": "HCMUC-SV",
-    "url": "https://sinhvien.hcmuc.edu.vn/",
+    "url": "https://sinhvien.hcmuc.edu.vn/sinh-vien-dang-nhap.html",
     "icon": "https://icons.duckduckgo.com/ip3/sinhvien.hcmuc.edu.vn.ico",
     "slug": "hcmuc-sv",
     "status": "down",
-    "uptime": "66.31%",
-    "uptimeDay": "66.31%",
-    "uptimeWeek": "66.31%",
-    "uptimeMonth": "66.31%",
-    "uptimeYear": "66.31%",
+    "uptime": "10.30%",
+    "uptimeDay": "10.30%",
+    "uptimeWeek": "10.30%",
+    "uptimeMonth": "10.30%",
+    "uptimeYear": "10.30%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-22": 0
+      "2025-07-22": 4
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 71,
-    "timeDay": 71,
-    "timeWeek": 71,
-    "timeMonth": 71,
-    "timeYear": 71,
+    "time": 78,
+    "timeDay": 78,
+    "timeWeek": 78,
+    "timeMonth": 78,
+    "timeYear": 78,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 208,
-    "timeDay": 208,
-    "timeWeek": 208,
-    "timeMonth": 208,
-    "timeYear": 208,
+    "time": 380,
+    "timeDay": 380,
+    "timeWeek": 380,
+    "timeMonth": 380,
+    "timeYear": 380,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 560,
-    "timeDay": 560,
-    "timeWeek": 560,
-    "timeMonth": 560,
-    "timeYear": 560,
+    "time": 375,
+    "timeDay": 375,
+    "timeWeek": 375,
+    "timeMonth": 375,
+    "timeYear": 375,
     "dailyMinutesDown": {}
   },
   {
